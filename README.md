@@ -1,0 +1,1 @@
+This was a project for Statistical and Machine Learning MATH 6388 at CU Denver. The point of the project was to use a data set, like 3D printing manufacture data, and create 4 different types of models and compare how well they work compared to each other. 
